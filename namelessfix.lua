@@ -15102,7 +15102,7 @@ end
  end)
  
  -- all this does is print i dont know why i made it a loadstring
- loadstring(game:HttpGet("https://raw.githubusercontent.com/FilteringEnabled/FE/main/asd"))();
+ loadstring(game:HttpGet("https://raw.githubusercontent.com/Bart3kk/fuckNameless/main/asd"))();
  
  -- never used this lol
  function Destroy(guiObject)
